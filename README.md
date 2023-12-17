@@ -34,6 +34,7 @@ It seems like a specific part being used to numberize .ts files.
 When we open the program, it will ask you to create a new setting, will ask for the link and start-end range.
 
 The link should be like this: `https://live-uefa-com.akamaized.net/hls/live/2036934/021223_EURO24FINAL/master_1_0{}.ts?l2v=1`
+You must put {} to the part that determines the number of the file.
 I leaved one 0 alone because it gives error when I try 2500, but works when I do 02500.
 
 I came to the beginning of the video, and saw the live stream starts from 1500. file. So I wrote 1500 as the start.

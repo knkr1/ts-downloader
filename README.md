@@ -22,12 +22,11 @@ You must get the link by yourself, which should look like this:
 
 What you see above is a example that I got from the offical EURO2024 draw. By opening the network tab at the developer tools, you can see the same link comes over to install .ts file.
 And if you check 3 different links:
-
-`https://live-uefa-com.akamaized.net/hls/live/2036934/021223_EURO24FINAL/master_1_02500.ts?l2v=1`
-
-`https://live-uefa-com.akamaized.net/hls/live/2036934/021223_EURO24FINAL/master_1_02501.ts?l2v=1`
-
-`https://live-uefa-com.akamaized.net/hls/live/2036934/021223_EURO24FINAL/master_1_02502.ts?l2v=1`
+```
+https://live-uefa-com.akamaized.net/hls/live/2036934/021223_EURO24FINAL/master_1_02500.ts?l2v=1
+https://live-uefa-com.akamaized.net/hls/live/2036934/021223_EURO24FINAL/master_1_02501.ts?l2v=1
+https://live-uefa-com.akamaized.net/hls/live/2036934/021223_EURO24FINAL/master_1_02502.ts?l2v=1
+```
 
 It seems like a specific part being used to numberize .ts files.
 

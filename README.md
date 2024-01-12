@@ -1,4 +1,6 @@
-# .ts Downloader
+# .ts Downloader (WARNING BELOW)
+
+# I have been working on this to install live streams from various places, but I just learnt that using ffmpeg is way easier. Just use ffmpeg for those situtations.
 
 A basic .ts downloader that able to download .ts files from a link provided.
 
